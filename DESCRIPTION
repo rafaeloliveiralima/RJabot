@@ -1,0 +1,10 @@
+Package: RJabot
+Type: Package
+Title: Consulta a base de dados JABOT
+Version: 0.1
+Date: 2016-03-26
+Author: Rafael Oliveira Lima
+Maintainer: Rafael Oliveira Lima <rafaeloliveiralima@ibest.com.br>
+Description: Busca a ocorrência da espécie (táxon) da base de dados JABOT do Instituto de Pesquisas Jardim Botânico do RJ
+License: GLP
+LazyData: TRUE
